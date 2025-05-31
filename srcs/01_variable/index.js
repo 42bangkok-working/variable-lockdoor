@@ -2,7 +2,7 @@
 const PI = 3.14;
 
 // define a mutable block-scoped variable [answer] with the value 42
-let answer = 43;
+let answer = 42;
 
 // define a mutable function-scoped variable [count] with the value 0
 var count = 0;
